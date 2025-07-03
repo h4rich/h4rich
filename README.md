@@ -12,7 +12,7 @@
 
 <h3>GitHub Stats:</h3>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=harishkumar6375&show_icons=true&theme=github_dark&locale=en" alt="Harish" />  | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harishkumar6375&theme=github_dark" alt="Harish" /> |
+| [![Harish's Profile Stats](https://github-readme-stats.vercel.app/api?username=harishkumar6375&show_icons=true&theme=github_dark&count_private=true&hide_border=true&rank_icon=percentile)](https://github.com/harishkumar6375?tab=repositories) | [![Harish's Streak Stats](https://nirzak-streak-stats.vercel.app?user=harishkumar6375&theme=github-dark-blue&hide_border=true&card_width=480)](https://github.com/harishkumar6375?tab=repositories) |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 
 
