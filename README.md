@@ -20,5 +20,5 @@
 | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 
 ---
-[![views](https://visitcount.itsvg.in/api?id=h4rich&icon=2&color=6)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=m4dd0c&color=blue&style=flat-square&base=600&abbreviated=true)](https://github.com/m4dd0c?tab=repositories)
  
