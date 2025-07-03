@@ -16,7 +16,7 @@
 | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harishkumar6375&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="Harish" />  | <img align="center" src="https://github-contributor-stats.vercel.app/api?username=harishkumar6375&limit=3&theme=github_dark&hide_border=true&combine_all_yearly_contributions=true" alt="Harish" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harishkumar6375&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="Harish" />  | [![harish's Streak Stats](https://nirzak-streak-stats.vercel.app?user=harish6375&theme=github-dark-blue&hide_border=true&card_width=480)](https://github.com/harish6375?tab=repositories) |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 
 ---
