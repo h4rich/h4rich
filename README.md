@@ -12,7 +12,7 @@
 
 <h3>GitHub Stats:</h3>
 
-| [![Harish's Profile Stats](https://github-readme-stats.vercel.app/api?username=h4rich&show_icons=true&theme=github_dark&count_private=true&hide_border=true&rank_icon=percentile)](https://github.com/h4rich?tab=repositories) | [![Harish's Streak Stats](https://nirzak-streak-stats.vercel.app?user=h4rich&theme=github-dark-blue&hide_border=true&card_width=480)](https://github.com/h4rich?tab=repositories) |
+| [![Harish's Profile Stats](https://github-readme-stats.vercel.app/api?username=h4rich&show_icons=true&theme=github_dark&count_private=true&hide_border=true)](https://github.com/h4rich?tab=repositories) | [![Harish's Streak Stats](https://nirzak-streak-stats.vercel.app?user=h4rich&theme=github-dark-blue&hide_border=true&card_width=480)](https://github.com/h4rich?tab=repositories) |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 
 
