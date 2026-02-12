@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Harish</h1>
 <h3>I eat, sleep, and code.</h3>
-<h3>🛠️ Developer focused on clean code, great UI/UX, and problem-solving.</h3>
+<h5>🛠️ Developer focused on clean code, great UI/UX, and problem-solving.</h5>
 
 - 👨💻 All of my projects are available at [Portfolio](https://h4rish.netlify.app)
 - ⚡ Fun fact **I still can't fix a printer.**
