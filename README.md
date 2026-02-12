@@ -1,14 +1,14 @@
 <h1>Hi 👋, I'm Harish</h1>
 <h3>I eat, sleep, and code.</h3>
-<h5>🛠️ Developer focused on clean code, great UI/UX, and problem-solving.</h5>
 
+- 🛠️ Developer focused on clean code, great UI/UX, and problem-solving.
 - 👨💻 All of my projects are available at [Portfolio](https://h4rish.netlify.app)
 - ⚡ Fun fact **I still can't fix a printer.**
 
 <h3>Connect with me:</h3>
 
-<code><a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m4dd0c" height="20" /></a></code> 
-<code><a href="https://instagram.com/harish_suthar_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m4dd0c_" height="20" /></a></code>
+<code><a href="https://linkedin.com/h4rich/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="h4rich" height="20" /></a></code> 
+<code><a href="https://instagram.com/harish_suthar_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h4rich" height="20" /></a></code>
 
 ---
 
